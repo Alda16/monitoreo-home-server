@@ -2,6 +2,10 @@
 
 Este proyecto consiste en la implementación de una arquitectura de obervabilidad para un servidor personal basado en **Ubuntu Server** y **Docker**, visualizando métricas críticas en **Power BI**.
 
+<p align="center">
+  <img src="screenshots/Dashboard-PC.png" width="800" title="Dashboard">
+</p>
+
 ## Tecnologías 
 * **SO:** Ubuntu Server 24.04 LTS (Homelab).
 * **Containerización:** Docker & Portainer.
